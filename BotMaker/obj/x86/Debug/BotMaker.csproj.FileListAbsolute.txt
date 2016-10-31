@@ -1,0 +1,8 @@
+f:\Загрузки\BotMaker\BotMaker\obj\x86\Debug\BotMaker.exe
+f:\Загрузки\BotMaker\BotMaker\obj\x86\Debug\BotMaker.pdb
+f:\Загрузки\BotMaker\BotMaker\obj\x86\Debug\BotMaker.csprojResolveAssemblyReference.cache
+f:\Загрузки\BotMaker\BotMaker\obj\x86\Debug\BotMaker.Properties.Resources.resources
+f:\Загрузки\BotMaker\BotMaker\obj\x86\Debug\BotMaker.csproj.GenerateResource.Cache
+f:\Загрузки\BotMaker\BotMaker\bin\Debug\BotMaker.exe
+f:\Загрузки\BotMaker\BotMaker\bin\Debug\BotMaker.pdb
+f:\Загрузки\BotMaker\BotMaker\obj\x86\Debug\BotMaker.MainWindow.resources

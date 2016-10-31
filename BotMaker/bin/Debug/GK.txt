@@ -1,0 +1,13 @@
+Wait(0:0:3)=
+Click(1272,49)=Refresh
+Wait(0:0:15)=
+Click(1019,538)=Click screen
+Wait(0:0:15)=
+Click(712,422)=
+Wait(0:0:2)=
+Click(1063,346)=
+Wait(0:0:2)=
+Click(758,283)=Collect
+Wait(0:0:2)=
+Click(755,283)=
+Wait(0:31:0)=
